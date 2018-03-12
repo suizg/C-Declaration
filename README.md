@@ -1,2 +1,2 @@
 # C-Declaration
-C++ for C Declaration
+C  for C Declaration
